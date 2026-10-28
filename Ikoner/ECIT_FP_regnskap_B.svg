@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 392.4 363.78">
+  <!-- Generator: Adobe Illustrator 30.8.2, SVG Export Plug-In . SVG Version: 2.1.4 Build 7)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #3e417f;
+        opacity: .8;
+      }
+
+      .st1 {
+        fill: url(#linear-gradient2);
+      }
+
+      .st2 {
+        stroke-width: 1.52px;
+      }
+
+      .st2, .st3 {
+        fill: none;
+        stroke: #3e417f;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .st4 {
+        fill: url(#linear-gradient1);
+      }
+
+      .st5, .st6 {
+        fill: #b5b5e5;
+      }
+
+      .st3 {
+        stroke-width: 1.5px;
+      }
+
+      .st7 {
+        fill: url(#linear-gradient3);
+      }
+
+      .st8 {
+        fill: url(#linear-gradient);
+      }
+
+      .st6 {
+        opacity: .2;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="353.55" y1="22.64" x2="392.4" y2="22.64" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f7fbfe"/>
+      <stop offset="1" stop-color="#e2e5f9"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient1" x1="225.26" y1="317.4" x2="225.26" y2="36.44" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient2" x1="185.72" y1="341.86" x2="281.46" y2="246.12" gradientUnits="userSpaceOnUse">
+      <stop offset=".35" stop-color="#f7fbfe"/>
+      <stop offset="1" stop-color="#e2e5f9"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient3" x1="59.34" y1="279.45" x2="216.42" y2="310.86" xlink:href="#linear-gradient"/>
+  </defs>
+  <path class="st8" d="M392.39,45.28h-38.84c0-.1,0-.2,0-.3C353.55,20.14,362.25,0,372.97,0s19.42,20.14,19.42,44.98c0,.1,0,.2,0,.3Z"/>
+  <path class="st4" d="M372.97,0H96.97c-10.73,0-19.42,20.14-19.42,44.98,0,.1,0,.2,0,.3h.02v273.52h237.16c0,24.84,8.7,44.98,19.42,44.98s19.42-20.14,19.42-44.98V45.28h-.02c0-.1,0-.2,0-.3,0-24.84,8.7-44.98,19.42-44.98Z"/>
+  <path class="st1" d="M314.74,319.76h.1c0-.1,0-.2,0-.3,0-24.84-8.7-44.98-19.42-44.98s-19.19,19.62-19.41,44.02H38.73c0,.1,0,.2,0,.3,0,24.84,8.7,44.98,19.42,44.98h276c-10.59,0-19.19-19.62-19.41-44.02Z"/>
+  <path class="st7" d="M276,319.46c0,.1,0,.2,0,.3H0c0-.1,0-.2,0-.3,0-24.84,8.7-44.98,19.42-44.98h276c-10.73,0-19.42,20.14-19.42,44.98Z"/>
+  <g>
+    <rect class="st0" x="134.5" y="126.55" width="23.95" height="36.78" rx="1.88" ry="1.88"/>
+    <rect class="st5" x="173.94" y="103.38" width="23.95" height="59.95" rx="1.88" ry="1.88"/>
+    <rect class="st0" x="213.39" y="83.35" width="23.95" height="79.98" rx="1.88" ry="1.88"/>
+    <rect class="st5" x="252.83" y="59.56" width="23.95" height="103.78" rx="1.88" ry="1.88"/>
+    <g>
+      <line class="st3" x1="134.5" y1="183.98" x2="276" y2="183.98"/>
+      <line class="st3" x1="134.5" y1="200.89" x2="276" y2="200.89"/>
+      <line class="st3" x1="134.5" y1="217.79" x2="202.32" y2="217.79"/>
+    </g>
+    <rect class="st6" x="251.63" y="222.83" width="27.06" height="27.06" rx="1.01" ry="1.01"/>
+    <polyline class="st2" points="248.98 226.54 262.62 241.86 294.75 205.78"/>
+  </g>
+</svg>
